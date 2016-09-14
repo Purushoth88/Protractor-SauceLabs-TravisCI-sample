@@ -1,4 +1,4 @@
 
 exports.config = {
-  specs: ['spec.js','Test.json']
+  specs: ['Test.json']
 };
